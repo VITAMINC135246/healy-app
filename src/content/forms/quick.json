@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "scale": "0-3",
+  "sections": [
+    {
+      "id": "phq4",
+      "title": "PHQ-4",
+      "items": [
+        { "id": "phq1", "text": "做任何事都提不起兴趣", "axis": "NE", "weight": 1 },
+        { "id": "phq2", "text": "情绪低落、沮丧",       "axis": "NE", "weight": 1 },
+        { "id": "gad1", "text": "紧张、焦虑或坐立不安", "axis": "NE", "weight": 1 },
+        { "id": "gad2", "text": "担心自己无法停止担忧", "axis": "NE", "weight": 1 }
+      ]
+    },
+    {
+      "id": "gad2_ext",
+      "title": "GAD-2（补充躯体化提示）",
+      "items": [
+        { "id": "gad3", "text": "很难放松下来",         "axis": "AR", "weight": 1 },
+        { "id": "gad4", "text": "容易烦躁或易怒",       "axis": "AR", "weight": 1 }
+      ]
+    },
+    {
+      "id": "va",
+      "title": "此刻感受",
+      "items": [
+        { "id": "valence", "type": "slider", "min": -3, "max": 3, "axis": "NE" },
+        { "id": "arousal", "type": "slider", "min": 0,  "max": 10, "axis": "AR" }
+      ]
+    },
+    {
+      "id": "scenes",
+      "title": "我正在经历…（可多选）",
+      "type": "multi",
+      "items": [
+        { "id": "scene_contact", "text": "很想联系 TA" },
+        { "id": "scene_feed",    "text": "刷到对方动态难受" },
+        { "id": "scene_sleep",   "text": "今晚睡不着" },
+        { "id": "scene_rumi",    "text": "我在反复想" }
+      ]
+    }
+  ]
+}

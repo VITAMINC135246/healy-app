@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "scale": "0-3",
+  "sections": [
+    {
+      "id": "ders16",
+      "title": "情绪调节困难（DERS-16 · 意译）",
+      "items": [
+        { "id": "ders01", "text": "当出现不舒服的情绪时，我很难接纳它们", "axis": "NE",  "subscale": "nonaccept", "weight": 1 },
+        { "id": "ders02", "text": "情绪上来时，我会对自己正在有这种情绪感到不耐或排斥", "axis": "NE",  "subscale": "nonaccept", "weight": 1 },
+        { "id": "ders03", "text": "难过或焦虑时，我会觉得“这样不该发生”", "axis": "NE",  "subscale": "nonaccept", "weight": 1 },
+
+        { "id": "ders04", "text": "情绪强时，我很难把注意力放回手头的事", "axis": "COG", "subscale": "goals",     "weight": 1 },
+        { "id": "ders05", "text": "心里翻涌的时候，我很难起步去做计划中的事", "axis": "COG", "subscale": "goals",     "weight": 1 },
+        { "id": "ders06", "text": "被情绪缠住时，我常“卡住”，不知道下一步该做什么", "axis": "COG", "subscale": "goals",     "weight": 1 },
+
+        { "id": "ders07", "text": "强烈情绪来时，我很难控制冲动", "axis": "AR",  "subscale": "impulse",   "weight": 1 },
+        { "id": "ders08", "text": "情绪一激动，我就容易做出事后会后悔的举动", "axis": "AR",  "subscale": "impulse",   "weight": 1 },
+        { "id": "ders09", "text": "难受的时候，我难以让自己“停一下”", "axis": "AR",  "subscale": "impulse",   "weight": 1 },
+
+        { "id": "ders10", "text": "当情绪很强时，我觉得自己没有办法让自己好受一点", "axis": "COG", "subscale": "strategies", "weight": 1 },
+        { "id": "ders11", "text": "我不确定有什么办法能帮助我调节情绪", "axis": "COG", "subscale": "strategies", "weight": 1 },
+        { "id": "ders12", "text": "我常觉得“无计可施”，只能被情绪推着走", "axis": "COG", "subscale": "strategies", "weight": 1 },
+
+        { "id": "ders13", "text": "有时我分不清自己到底在感受什么", "axis": "COG", "subscale": "clarity",   "weight": 1 },
+        { "id": "ders14", "text": "情绪来时，我对自己的感觉容易混乱", "axis": "COG", "subscale": "clarity",   "weight": 1 },
+        { "id": "ders15", "text": "我常需要很久才能弄明白自己在经历哪种情绪", "axis": "COG", "subscale": "clarity",   "weight": 1 },
+        { "id": "ders16", "text": "整体来说，我觉得理解和描述自己的情绪是困难的", "axis": "COG", "subscale": "clarity",   "weight": 1 }
+      ]
+    },
+
+    {
+      "id": "rrs10",
+      "title": "反刍（RRS-10 · 意译）",
+      "items": [
+        { "id": "rrs01", "text": "我会一遍遍回放事情的细节，想找到哪里出了问题", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs02", "text": "我常盯着“为什么会这样”的想法转个不停", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs03", "text": "我会把现在的自己和过去进行比较，越想越低落", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs04", "text": "我会在脑子里假设“如果当时那样做会怎样”", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs05", "text": "我会抓着某个想法不放，很难停下来", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs06", "text": "我倾向于反复琢磨自己的感受和状态", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs07", "text": "我会不断在心里复盘对话或场景", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs08", "text": "我经常反复想象不同的“平行结局”", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs09", "text": "我常思索“我到底哪里不够好”", "axis": "COG", "subscale": "rumination", "weight": 1 },
+        { "id": "rrs10", "text": "我会为同一件事想上很多轮，难以抽身", "axis": "COG", "subscale": "rumination", "weight": 1 }
+      ]
+    },
+
+    {
+      "id": "aaqii",
+      "title": "心理僵化 / 回避（AAQ-II · 意译）",
+      "items": [
+        { "id": "aaq01", "text": "我会尽量远离那些让我不舒服的想法或感受", "axis": "COG", "subscale": "avoidance", "weight": 1 },
+        { "id": "aaq02", "text": "一旦心里冒出不舒服的念头，我会急于把它压下去", "axis": "COG", "subscale": "avoidance", "weight": 1 },
+        { "id": "aaq03", "text": "当被想法黏住时，我很难把注意力从它身上移开", "axis": "COG", "subscale": "fusion",    "weight": 1 },
+        { "id": "aaq04", "text": "为了不去感受难受，我会牺牲一些对我重要的事情", "axis": "COG", "subscale": "avoidance", "weight": 1 },
+        { "id": "aaq05", "text": "我觉得必须先把不舒服的感觉处理干净，才能去做事", "axis": "COG", "subscale": "fusion",    "weight": 1 },
+        { "id": "aaq06", "text": "我经常被自己的念头牵着走，难以回到当下", "axis": "COG", "subscale": "fusion",    "weight": 1 },
+        { "id": "aaq07", "text": "遇到不安/悲伤时，我的第一反应是逃开它", "axis": "COG", "subscale": "avoidance", "weight": 1 }
+      ]
+    },
+
+    {
+      "id": "ecrr_short",
+      "title": "依恋（ECR-R · 短 · 意译）",
+      "items": [
+        { "id": "ecr_a01", "text": "我常担心伴侣（或重要的人）不像我一样在乎我", "axis": "NE",  "subscale": "anxiety", "weight": 1 },
+        { "id": "ecr_a02", "text": "当对方没有及时回应时，我会很不安", "axis": "NE",  "subscale": "anxiety", "weight": 1 },
+        { "id": "ecr_a03", "text": "我怕被忽视或被抛下", "axis": "NE",  "subscale": "anxiety", "weight": 1 },
+        { "id": "ecr_a04", "text": "我常需要对方更多的确认和保证", "axis": "NE",  "subscale": "anxiety", "weight": 1 },
+        { "id": "ecr_a05", "text": "我担心如果我不主动，对方会离我远去", "axis": "NE",  "subscale": "anxiety", "weight": 1 },
+        { "id": "ecr_a06", "text": "我害怕独自面对关系的不确定", "axis": "NE",  "subscale": "anxiety", "weight": 1 },
+
+        { "id": "ecr_v01", "text": "过度的亲近让我不太舒服", "axis": "COG", "subscale": "avoidant", "weight": 1 },
+        { "id": "ecr_v02", "text": "我更喜欢自己处理问题，不愿过多依赖他人", "axis": "COG", "subscale": "avoidant", "weight": 1 },
+        { "id": "ecr_v03", "text": "在亲密关系里，我会下意识保持一些距离", "axis": "COG", "subscale": "avoidant", "weight": 1 },
+        { "id": "ecr_v04", "text": "别人需要我时，我会有点想退后", "axis": "COG", "subscale": "avoidant", "weight": 1 },
+        { "id": "ecr_v05", "text": "表达脆弱对我来说并不容易", "axis": "COG", "subscale": "avoidant", "weight": 1 },
+        { "id": "ecr_v06", "text": "我不太习惯在关系里谈论自己的感受", "axis": "COG", "subscale": "avoidant", "weight": 1 }
+      ]
+    },
+
+    {
+      "id": "values",
+      "title": "价值澄清（单选）",
+      "type": "single",
+      "items": [
+        { "id": "val_selfcare",   "text": "我想先把身体与作息照顾好" },
+        { "id": "val_boundary",   "text": "我想练习表达界限与需求" },
+        { "id": "val_connection", "text": "我想恢复与朋友/家人的连接" }
+      ]
+    }
+  ]
+}
